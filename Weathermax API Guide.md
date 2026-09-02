@@ -9,8 +9,9 @@ Before you begin, ensure you have:
 
 The Weathermax API uses API keys for authentication. You must include your key in the `X-API-Key` HTTP header of every request.
 
-[!WARNING]
-Important Keep your API key secure. Do not hardcode it into public client-side code or commit it to GitHub.`
+> [!WARNING]
+>
+> Important Keep your API key secure. Do not hardcode it into public client-side code or commit it to GitHub.`
 
 **3. Make your First API Call**
 
