@@ -2,7 +2,7 @@
 
 Before you begin, ensure you have:
 * A **Weathermax Developer Account**
-* An active **API Key** (retrieved from your Acconunt Dashboard)
+* An active **API Key** (retrieved from your Account Dashboard)
 * **cURL** installed on your system (built into most modern terminals)
 
 **2. Authenticate your requests**
@@ -12,6 +12,10 @@ The Weathermax API uses API keys for authentication. You must include your key i
 > [!WARNING]
 >
 > Important Keep your API key secure. Do not hardcode it into public client-side code or commit it to GitHub.`
+>
+> [!WARNING]
+>
+> Do not worry about coding errors! Automated tools will catch and fix this!!
 
 **3. Make your First API Call**
 
